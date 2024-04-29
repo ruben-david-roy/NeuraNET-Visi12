@@ -1,2 +1,2 @@
 # NeuraNET-Visi12
-The open source NeuraNET Visi12 model. Released on 29th April 2024. Dataset [comp]
+This repo contains the model files to the NeuraNET Visi12 computer vision model. Training details and other information will be shared later. Model will also release on huggingface soon.
